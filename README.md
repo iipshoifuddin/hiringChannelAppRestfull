@@ -110,47 +110,48 @@ npm start
 To use json from a database, use the endpoints as follows :
 
 ```sh
-  //Routing engineers
-  // Get Data Engineers All filed (Using 'Get' Header)
-'http://YOUR_SERVER:3000/engineers/users'
+A. Routing engineers
+ 1. Get Data Engineers All filed (Using 'Get' Header)
+    'http://YOUR_SERVER:3000/engineers/users'
 
-  // Get Data Engineers One Field (Using 'Get' Header)
-'http://YOUR_SERVER:3000/engineers/user/:id'
+ 2. Get Data Engineers One Field (Using 'Get' Header)
+    'http://YOUR_SERVER:3000/engineers/user/:id'
 
-  // Add Data Enginners (Using 'Post' Header)
-'http://YOUR_SERVER:3000/engineers/user'
+ 3. Add Data Enginners (Using 'Post' Header)
+    'http://YOUR_SERVER:3000/engineers/user'
   
-  // Edit Data Engineers  (Using 'Patch' Header)
-'http://YOUR_SERVER:3000/engineers/user/:id'
+ 4. Edit Data Engineers  (Using 'Patch' Header)
+    'http://YOUR_SERVER:3000/engineers/user/:id'
   
-  //Delete Data Engineers (Using 'Delete' Header)
-'http://YOUR_SERVER:3000/engineers/user/:id'
+ 5. Delete Data Engineers (Using 'Delete' Header)
+    'http://YOUR_SERVER:3000/engineers/user/:id'
 
-  //login Auth (Using 'Post' Header)
-'http://YOUR_SERVER:3000/login'
+ 6. login Auth (Using 'Post' Header)
+    'http://YOUR_SERVER:3000/login'
 
-  //Verify Login (Using 'Get' Header)
-'http://YOUR_SERVER:3000/secret'
-
-
-  //Router Companies
-// Get Data Engineers All filed (Using 'Get' Header)
-'http://YOUR_SERVER:3000/companies/users'
-
-// Get Data Engineers One Field (Using 'Get' Header)
-'http://YOUR_SERVER:3000/companies/user/:id'
-
-// Add Data Enginners (Using 'Post' Header)
-'http://YOUR_SERVER:3000/companies/user/:id'
-
-// Edit Data Engineers (Using 'Patch' Header)
-'http://YOUR_SERVER:3000/companies/user/:id'
-
-// Delete Data Engineers (Using 'Delete' Header)
-'http://YOUR_SERVER:3000/companies/user/:id'
+ 7. Verify Login (Using 'Get' Header)
+    'http://YOUR_SERVER:3000/secret'
 
 
-// Get Global API (Using 'Get' Header)
-'http://YOUR_SERVER:3000/global/:user/:id'
+B. Router Companies
+ 1. Get Data Engineers All filed (Using 'Get' Header)
+ 'http://YOUR_SERVER:3000/companies/users'
+
+ 2. Get Data Engineers One Field (Using 'Get' Header)
+    'http://YOUR_SERVER:3000/companies/user/:id'
+
+3. Add Data Enginners (Using 'Post' Header)
+   'http://YOUR_SERVER:3000/companies/user/:id'
+
+4. Edit Data Engineers (Using 'Patch' Header)
+   'http://YOUR_SERVER:3000/companies/user/:id'
+
+5. Delete Data Engineers (Using 'Delete' Header)
+   'http://YOUR_SERVER:3000/companies/user/:id'
+
+
+C. Global API Using
+   1. Get Global API (Using 'Get' Header)
+      'http://YOUR_SERVER:3000/global/:user/:id'
   
 ```
