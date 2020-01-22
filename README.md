@@ -133,7 +133,7 @@ To use json from a database, use the endpoints as follows :
 'http://YOUR_SERVER:3000/secret'
 
 
-  //Router Companies]
+  //Router Companies
 // Get Data Engineers All filed (Using 'Get' Header)
 'http://YOUR_SERVER:3000/companies/users'
 
