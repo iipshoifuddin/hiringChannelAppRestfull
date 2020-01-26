@@ -11,8 +11,6 @@
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
-- [Contact](#contact)
-- [Contributors](#contributors)
 
 ## Built With
 
@@ -26,9 +24,9 @@ Express.js is a web application framework for Node.js. [More about Express](http
 
 ## Requirements
 
-1. npm
-2. <a href="https://www.getpostman.com/">Postman</a>
-3. Web Server (ex. localhost)
+- [`nodeJS`](https://nodejs.org/en/download/)
+- [`npm`](https://www.npmjs.com/get-npm)
+- [`expressJS`](https://github.com/expressjs/)
 
 ## Usage for development
 
@@ -60,23 +58,3 @@ DB_NAME='YOUR DB NAME'
 JWT_SECRET= YOUR-SECRET-KEY
 ```
 
-## Contact
-
-If you want to contact me you can reach me at <nihsan727@gmail.com>.
-
-Copyright © 2020 by Nur Ihsan
-
-## Contributors
-
-<center>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ihsan2">
-          <img width="100" src="./public/ihsan.jpg" alt="Nur Ihsan"><br/>
-          <sub><b>Nur Ihsan</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
