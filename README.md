@@ -1,4 +1,4 @@
-<h1 align="center">Hiring Channel ( RESTful API )</h1>
+<h1 align="center">Hiring Channels ( RESTful API )</h1>
 <p align="center">
   <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>
   <img height="100" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*Ahl24GrglQHwFcp5-_B36Q.png"/>
