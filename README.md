@@ -19,11 +19,9 @@
 
 ## Introduction
 
-<b>Hiring Channel App</b> is a feature that allows Engineers and Company/Employers to do communicate for looking/hiring jobs. This project for handle backend only. Built using ExpressJs Framework.
-Express.js is a web application framework for Node.js. [More about Express](https://en.wikipedia.org/wiki/Express.js)
+<b> Hirring Channels</b> is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event.
 
 ## Requirements
-
 - [`nodeJS`](https://nodejs.org/en/download/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`expressJS`](https://github.com/expressjs/)
