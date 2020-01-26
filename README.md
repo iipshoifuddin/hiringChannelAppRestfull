@@ -10,14 +10,15 @@
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
-- [Create Environment Variable](#create-environment-variable)
-- [Contact](#contact)
-- [Contributors](#contributors)
+- [Create Environment Var
 
-## Built With
+## Built With<p align="center">
+  
+<p align="center">
+  <img height="100" src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png"/>
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>
+</p>
 
-[![Express.js](https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png)](https://expressjs.com/en/starter/installing.html)
-[![Node.js](https://img.shields.io/badge/Node.js-v.13.3.0-green.svg?style=rounded-square)](https://nodejs.org/)
 
 ## Introduction
 
