@@ -1,7 +1,7 @@
 <h1 align="center">Simple RESTful API Hiring Channel App</h1>
 <p align="center">
-  <img width="250" src="./public/node.png"/>
-  <img width="250" src="./public/express.png"/>
+  <img width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>
+  <img width="250" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*Ahl24GrglQHwFcp5-_B36Q.png"/>
 </p>
 
 ## Table of Contents
@@ -10,15 +10,14 @@
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
-- [Create Environment Var
+- [Create Environment Variable](#create-environment-variable)
+- [Contact](#contact)
+- [Contributors](#contributors)
 
-## Built With<p align="center">
-  
-<p align="center">
-  <img height="100" src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png"/>
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>
-</p>
+## Built With
 
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
+[![Node.js](https://img.shields.io/badge/Node.js-v.13.3.0-green.svg?style=rounded-square)](https://nodejs.org/)
 
 ## Introduction
 
