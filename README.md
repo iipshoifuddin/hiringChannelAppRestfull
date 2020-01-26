@@ -16,7 +16,7 @@
 
 ## Built With
 
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
+[![Express.js](https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png)](https://expressjs.com/en/starter/installing.html)
 [![Node.js](https://img.shields.io/badge/Node.js-v.13.3.0-green.svg?style=rounded-square)](https://nodejs.org/)
 
 ## Introduction
